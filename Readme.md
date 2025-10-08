@@ -1,14 +1,16 @@
 # 🚀 NeurChat — End-to-End AI Agent Chatbot
 
-An end-to-end AI Agent Chatbot built with FastAPI, LangGraph, and LangChain.
-NeuraChat is designed to demonstrate a production-ready GenAI application with intelligent agent workflows.
+NeuraChat is a personal AI agent chatbot built with FastAPI, LangGraph, and LangChain.
+It acts as an intelligent assistant capable of reasoning, using tools, and maintaining context — designed as an end-to-end, production-ready GenAI application.
 
 # 🧠 Features
+
+- Acts as a personal AI assistant powered by LLMs
 
 - FastAPI backend for high-performance APIs
 
 - LangGraph for agent orchestration
 
-- LangChain for LLMs and memory handling
+- LangChain for memory, reasoning, and tool integration
 
-- Easily extendable with custom tools or APIs
+- Easily extendable with your own APIs or functions
